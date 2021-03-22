@@ -1,3 +1,2 @@
 # Coral_reef
-
-In order to run this project, you will need a data folder containing the data from Google Drive in a rep preceeding the one with the codes from GitHub
+All the data and the notebooks are up to date and are used to present the data gathered by the Caitlin XL survey in the Great Barrier Reef
